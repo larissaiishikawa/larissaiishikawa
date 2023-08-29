@@ -1,4 +1,4 @@
-# Hi! I'm Larissa 🙋🏻‍♀️
+# Hi! I'm Larissa 💚
 ## System Analyst and Developer (in development)   
 
 
