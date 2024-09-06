@@ -1,6 +1,8 @@
 # Hi! I'm Larissa 💚
-## System Analyst and Developer (in development)   
-I am currently enrolled in the second semester of Systems Analysis and Development at the Federal Technological University of Paraná (UTFPR-CP). Through this program, I have been able to acquire knowledge in the field of development, including programming languages such as C, Javascript (and consequently, HTML and CSS), and Python. Before that, I temporarily worked in the tourism industry, thanks to my fluency in English, basic level of Spanish, and communication skills. In addition to that, I am always seeking opportunities to learn, communicate, work in teams, challenge myself, and gain new experiences!    
+## Project Assistant 
+I am currently in the third semester of my Systems Analysis and Development program at the Federal University of Technology - Paraná (UTFPR-CP). During my studies, I have gained knowledge in development, including programming languages, management, and communication. I have also worked temporarily in the tourism sector, thanks to my fluency in English, intermediary knowledge of Spanish, and communication skills.
+I am communicative and proactive, with a strong ability to learn and work in a team. I am eager to grow and have participated as a volunteer mentor in a Hackathon with 200 participants because I love challenging myself and gaining new experiences. Additionally, I had the opportunity to coordinate a teaching project at my university focused on active methodologies aimed at improving education in the current academic landscape.
+Currently, I work and study in the IT field, but I am also passionate about innovation and entrepreneurship! 
 
 
 
@@ -9,9 +11,9 @@ I am currently enrolled in the second semester of Systems Analysis and Developme
 
 - 🔭 I’m currently working at **Clickweb** as a Project Assistant.
 
-- 🌱 I’m currently learning **Java!**
+- 🌱 I’m currently learning **Agile software development!**
 
-- 🤝 I’m looking for help with **becoming a great developer and business owner.**
+- 🤝 I’m looking for help with **becoming a Product/Project Manager and business owner.**
 
 - 💬 Ask me about **resilience, communication and leadership.**
 
