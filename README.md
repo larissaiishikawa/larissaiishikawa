@@ -1,9 +1,9 @@
 # Hi! I'm Larissa 💚
 ## Project Assistant 
-I am currently in the third semester of my Systems Analysis and Development program at the Federal University of Technology - Paraná (UTFPR-CP). During my studies, I have gained knowledge in development, including programming languages, management, and communication. I have also worked temporarily in the tourism sector, thanks to my fluency in English, intermediary knowledge of Spanish, and communication skills.
-I am communicative and proactive, with a strong ability to learn and work in a team. I am eager to grow and have participated as a volunteer mentor in a Hackathon with 200 participants because I love challenging myself and gaining new experiences. Additionally, I had the opportunity to coordinate a teaching project at my university focused on active methodologies aimed at improving education in the current academic landscape.
-Currently, I work and study in the IT field, but I am also passionate about innovation and entrepreneurship! 
-
+I am in the final semester of my Systems Analysis and Development degree at the Federal University of Technology - Paraná (UTFPR-CP). Throughout my studies, I have built a strong foundation in software development, programming languages, project management, and communication.
+I currently work as a Project Assistant at Clickweb, where I ensure that all projects are well executed, analyze and validate deliverables, identify errors, and report them to the responsible parties. I have experience writing user stories and acceptance criteria, documenting improvements, and managing time and projects using agile methodologies such as Scrum and Kanban.
+Beyond my professional experience, I have participated three times as a volunteer mentor at hackathons, mentoring over 100 participants and leading the mentorship team in one of the events. I also had the opportunity to coordinate a university teaching project focused on active methodologies, such as gamification and case studies, aimed at improving higher education.
+I am communicative, proactive, and a fast learner, with strong teamwork skills. Passionate about innovation and entrepreneurship, I am continuously seeking opportunities to grow, challenge myself, and contribute to impactful projects. 
 
 
 ![Larissa Ishikawa's GitHub stats](https://github-readme-stats.vercel.app/api?username=larissaiishikawa&theme=shadow_green&show_icons=true)
@@ -11,9 +11,9 @@ Currently, I work and study in the IT field, but I am also passionate about inno
 
 - 🔭 I’m currently working at **Clickweb** as a Project Assistant.
 
-- 🌱 I’m currently learning **Agile software development!**
+- 🌱 I’m currently learning **COBOL!**
 
-- 🤝 I’m looking for help with **becoming a Product/Project Manager and business owner.**
+- 🤝 I’m looking for help with **becoming a Project Manager and business owner.**
 
 - 💬 Ask me about **resilience, communication and leadership.**
 
